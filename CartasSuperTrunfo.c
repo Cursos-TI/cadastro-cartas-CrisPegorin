@@ -39,7 +39,7 @@ printf("codigo da carta: \n");
         scanf(" %s", cidade);
 
              printf("Numero de pontos turisticos: \n");
-             scanf(" %sd", &turismo);
+             scanf(" %d", &turismo);
 
                 printf("população: \n");
                 scanf(" %d", &populacao);
@@ -63,7 +63,7 @@ printf("codigo da carta: \n");
         scanf(" %s", cidade1);
 
              printf("Numero de pontos turisticos: \n");
-             scanf(" %sd", &turismo1);
+             scanf(" %d", &turismo1);
 
                 printf("população: \n");
                 scanf(" %d", &populacao1);
